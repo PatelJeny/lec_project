@@ -1,0 +1,11 @@
+.company_name{
+    flex: 1;
+    color: white;
+}
+.text_align{
+    text-align: center;
+}
+.img_align{
+    width: 280px;
+    height: 128px;
+}
